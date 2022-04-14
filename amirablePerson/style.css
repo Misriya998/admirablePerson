@@ -39,3 +39,7 @@ table {color:rgb(137, 89, 89);
     padding-bottom: 5px;
     padding-left: 40px;
   }
+  img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
